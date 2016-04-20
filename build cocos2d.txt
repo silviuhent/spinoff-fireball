@@ -1,4 +1,26 @@
-1 matei manager direct (cunostinte) <-> potential de leadership
-2 adi tech lead clienti problem solver
-3 culture, discutie libera, testare si interactionare
-4 discutie tehnica
+dev env
+
+1 Android NDK
+	http://developer.android.com/ndk/downloads/index.html
+2 Cocos2d-x
+	http://www.cocos2d-x.org/download first link version v3.10 from cocos2d-x
+3 Android ADT SDK
+	http://developer.android.com/sdk/index.html
+4 Apache ANT
+	http://ant.apache.org/bindownload.cgi
+5 Python
+	https://www.python.org/downloads/ versiunea 2.7.xxxx
+6 Tutorial
+	https://www.youtube.com/watch?v=A57fqcbQ68M&list=PLRtjMdoYXLf7n9bghH1k63kisb-VDzGu1&index=4
+	
+	
+7 GIT install
+	https://git-scm.com/downloads consoleGIT oooooor you can install a git plugin for eclipse from eclipse marketplace OOOOR ->RET
+	7.1 Git install GUI (nice thingy)
+		https://desktop.github.com/
+8 Create Git account
+	https://github.com/
+	
+9 git url for deployment :D for GIT desktop GUI thingy
+	https://github.com/silviuhent/spinoff-fireball.git
+10 HAVE FUN & ENJOY!!!!!!
